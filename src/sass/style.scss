@@ -1,0 +1,25 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  margin: 1rem;
+}
+
+h2 {
+  margin-top: 2rem;
+}
+
+.table-items tbody tr td {
+  border: none;
+}
+
+.item-total {
+  float: right;
+  font-weight: bold;
+  text-align: right;
+  padding: 0.75rem;
+  background-color: #efefef;
+}
+
+.btn-save {
+  margin-top: 2rem;
+}
